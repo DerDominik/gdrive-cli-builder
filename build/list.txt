@@ -1,1 +1,1 @@
-linux/amd66
+linux/amd64
